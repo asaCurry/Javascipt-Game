@@ -1,0 +1,33 @@
+
+
+
+
+.head-style {
+	align-items: center;
+
+}
+#button-rock {
+color: #fff;
+
+
+}
+
+.button-style {
+	border-radius: 100%;
+	padding: 50px;
+}
+
+.test {
+text-align: center;
+
+}
+
+.game-container {
+	width: 60%;
+	margin: 0 20% 0 20%;
+	display: flex;
+	align-content: center;
+	justify-content: center;
+
+
+}
